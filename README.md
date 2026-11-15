@@ -1,6 +1,6 @@
 # WARP Config Generator — Cloudflare one-click template
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/REPLACE-OWNER/REPLACE-REPOSITORY)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/MCFCMARK/warp-1-click/)
 
 A minimal, self-contained **Cloudflare Worker**. No VPS, PHP, database, Cloudflare KV, or secrets are required for deployment.
 
